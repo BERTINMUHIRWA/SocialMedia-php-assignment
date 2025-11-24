@@ -247,7 +247,7 @@
         </p>
 
         <p class="login-text">
-            Have an account already? <a href="#">Log in</a>
+            Have an account already? <a href="login.php">Log in</a>
         </p>
     </div>
 </body>
